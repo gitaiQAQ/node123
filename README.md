@@ -37,6 +37,7 @@
 + [《京JS》会议 & V8上的JS优化](http://blog.sina.com.cn/s/blog_6801fe420101qaz2.html)
 + [沪 JS 国内讲师的 PPT 收集](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 + [给Node.js新手的7条小建议](http://cnodejs.org/topic/525216a3f29c7bbd3c877cbf)
++ [搭建高可用mongodb集群（四）—— 分片](http://www.lanceyan.com/tech/arch/mongodb_shard1.html)
 
 ##模块导航
 
